@@ -13,4 +13,6 @@ In the near future will implement some test framework to this.
 
 All the Bower dependencies will be in public/lib.
 
+I use [nodemon] (http://nodemon.io/) to start the server and [Gulp] (http://gulpjs.com/) to listen for the changes on the frontend.
+
 
