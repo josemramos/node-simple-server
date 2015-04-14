@@ -51,7 +51,7 @@ gulp.task('watch', function(){
 
   gulp.watch('public/styles/**/*.scss', ['styles']);
   gulp.watch('public/images/**/*.*', ['images']);
-  gulp.watch('public/js/**/*.js', ['scripts']);
+  gulp.watch('public/scripts/**/*.js', ['scripts']);
 
   livereload.listen();
 
